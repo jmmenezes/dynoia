@@ -145,3 +145,12 @@ Verifica se a API está funcionando.
 ## Custos AWS
 
 O uso do AWS Bedrock gera custos baseados no número de tokens processados. Monitore o uso no console AWS para controlar os gastos.
+
+## Lista de prompts
+
+gere uma aplicação web responsiva com frontend em angular 19 e backend em python 3.7 que irá se comunicar com o LLM da aws bedrock. 
+o usuário deve fornecer 2 veículos 
+a llm deverá obter o peso e potência dos veículos e exibir na tela
+então a llm deve calcular uma potência estimada para carros aspirados usando turbo com 1kg e 2kg e carros turbo com aumebto de pressão em 50% e 100%
+então deve ser gerada uma simulação de uma corrida entre os carros em um percurso de 500 metros
+
